@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "crazy-zoo-monkey",
+    "thumbnail": "https://BitPixelBlast.github.io/images/300.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sudoku",
+    "thumbnail": "https://BitPixelBlast.github.io/images/301.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "robby-bomberman",
+    "thumbnail": "https://BitPixelBlast.github.io/images/302.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cube-drop-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/303.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "latutu-holiday-gift-hunt",
+    "thumbnail": "https://BitPixelBlast.github.io/images/304.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "journey-of-escape",
+    "thumbnail": "https://BitPixelBlast.github.io/images/305.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "cooking-cafe-food-chef",
+    "thumbnail": "https://BitPixelBlast.github.io/images/306.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "jungle-solitaire",
+    "thumbnail": "https://BitPixelBlast.github.io/images/307.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "mind-gambit",
+    "thumbnail": "https://BitPixelBlast.github.io/images/308.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "magic-christmas-tree-match-3",
+    "thumbnail": "https://BitPixelBlast.github.io/images/309.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "luxury-highway-cars",
+    "thumbnail": "https://BitPixelBlast.github.io/images/310.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "winter-wonderland-mahjong",
+    "thumbnail": "https://BitPixelBlast.github.io/images/311.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "happy-bubbles",
+    "thumbnail": "https://BitPixelBlast.github.io/images/312.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "obby-escape-barrys-jail-parkour",
+    "thumbnail": "https://BitPixelBlast.github.io/images/313.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "air-strike-2d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/314.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "super-pop-blast",
+    "thumbnail": "https://BitPixelBlast.github.io/images/315.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sprunki-clicker-merge-phase-3",
+    "thumbnail": "https://BitPixelBlast.github.io/images/316.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tcg-card-clicker",
+    "thumbnail": "https://BitPixelBlast.github.io/images/317.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "fps-toy-realism",
+    "thumbnail": "https://BitPixelBlast.github.io/images/318.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "hexa-sort-trick-or-treat",
+    "thumbnail": "https://BitPixelBlast.github.io/images/319.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "people-playground-ragdoll-battle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/320.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "typing-adventure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/321.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "katana",
+    "thumbnail": "https://BitPixelBlast.github.io/images/322.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "cap",
+    "thumbnail": "https://BitPixelBlast.github.io/images/323.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "hungry-noob-cafe-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/324.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "break-a-lucky-egg-brainrots",
+    "thumbnail": "https://BitPixelBlast.github.io/images/325.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "pirate-paradise",
+    "thumbnail": "https://BitPixelBlast.github.io/images/326.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "quizmania-trivia-game",
+    "thumbnail": "https://BitPixelBlast.github.io/images/327.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "slingshot-fortress",
+    "thumbnail": "https://BitPixelBlast.github.io/images/328.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "meow-block-color-collect",
+    "thumbnail": "https://BitPixelBlast.github.io/images/329.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hot-cold-winter-style",
+    "thumbnail": "https://BitPixelBlast.github.io/images/330.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "two-archers-bow-duel",
+    "thumbnail": "https://BitPixelBlast.github.io/images/331.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "limited-defense",
+    "thumbnail": "https://BitPixelBlast.github.io/images/332.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "my-arcade-center",
+    "thumbnail": "https://BitPixelBlast.github.io/images/333.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "resident-evil-purge-operation",
+    "thumbnail": "https://BitPixelBlast.github.io/images/334.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "hidden-object-farm-adventure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/335.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "flower-sort",
+    "thumbnail": "https://BitPixelBlast.github.io/images/336.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "impostor-among-space",
+    "thumbnail": "https://BitPixelBlast.github.io/images/337.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "animal-basketball",
+    "thumbnail": "https://BitPixelBlast.github.io/images/338.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "merge-fusion",
+    "thumbnail": "https://BitPixelBlast.github.io/images/339.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "tic-tac-toe-merge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/340.webp",
+    "genre": "Boardgames, Merge"
+  },
+  {
+    "id": "space-survival-rainbow-friends-monster",
+    "thumbnail": "https://BitPixelBlast.github.io/images/341.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "animal-merge-zoo-park",
+    "thumbnail": "https://BitPixelBlast.github.io/images/342.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "merge-blocks-2048",
+    "thumbnail": "https://BitPixelBlast.github.io/images/343.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "theo-morinis-magical-resort",
+    "thumbnail": "https://BitPixelBlast.github.io/images/344.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "vegamix-da-vinci-puzzles",
+    "thumbnail": "https://BitPixelBlast.github.io/images/345.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pixel-blast",
+    "thumbnail": "https://BitPixelBlast.github.io/images/346.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "idol-livestream-doll-dress-up",
+    "thumbnail": "https://BitPixelBlast.github.io/images/347.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "animal-royal",
+    "thumbnail": "https://BitPixelBlast.github.io/images/348.webp",
+    "genre": "Battle, Cards"
+  },
+  {
+    "id": "obby-prison-run",
+    "thumbnail": "https://BitPixelBlast.github.io/images/349.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "toka-boka-home-clean-up-design",
+    "thumbnail": "https://BitPixelBlast.github.io/images/350.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "slime-farm",
+    "thumbnail": "https://BitPixelBlast.github.io/images/351.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "robberies-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/352.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "word-game-2026",
+    "thumbnail": "https://BitPixelBlast.github.io/images/353.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "geometry-wave-hero",
+    "thumbnail": "https://BitPixelBlast.github.io/images/354.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "99-balls",
+    "thumbnail": "https://BitPixelBlast.github.io/images/355.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "puzzle-games-outing-day",
+    "thumbnail": "https://BitPixelBlast.github.io/images/356.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "arrow-escape",
+    "thumbnail": "https://BitPixelBlast.github.io/images/357.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "room-sort-floor-plan",
+    "thumbnail": "https://BitPixelBlast.github.io/images/358.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "real-impossible-sky-tracks-car-driving",
+    "thumbnail": "https://BitPixelBlast.github.io/images/359.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "cyber-monday",
+    "thumbnail": "https://BitPixelBlast.github.io/images/360.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hypermarket-3d-store-cashier",
+    "thumbnail": "https://BitPixelBlast.github.io/images/361.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ninja-wars-battle-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/362.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "obby-pinata-party",
+    "thumbnail": "https://BitPixelBlast.github.io/images/363.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "lava-jump",
+    "thumbnail": "https://BitPixelBlast.github.io/images/364.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "archery-legends",
+    "thumbnail": "https://BitPixelBlast.github.io/images/365.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "math-crossword-puzzle-genius-edition",
+    "thumbnail": "https://BitPixelBlast.github.io/images/366.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "spider-solitaire",
+    "thumbnail": "https://BitPixelBlast.github.io/images/367.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "auto-ninja",
+    "thumbnail": "https://BitPixelBlast.github.io/images/368.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "stick-master-teleport",
+    "thumbnail": "https://BitPixelBlast.github.io/images/369.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "prsino",
+    "thumbnail": "https://BitPixelBlast.github.io/images/370.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "screw-masters-3d-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/371.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "my-tiny-market",
+    "thumbnail": "https://BitPixelBlast.github.io/images/372.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "burger-tycoon",
+    "thumbnail": "https://BitPixelBlast.github.io/images/373.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "fruit-block-tetra-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/374.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-trouble",
+    "thumbnail": "https://BitPixelBlast.github.io/images/375.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "nautilus-spaceship-escape",
+    "thumbnail": "https://BitPixelBlast.github.io/images/376.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pool-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/377.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "ocean-pop",
+    "thumbnail": "https://BitPixelBlast.github.io/images/378.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "vex-hyper-dash",
+    "thumbnail": "https://BitPixelBlast.github.io/images/379.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "jigsaw-cards-daily-puzzles",
+    "thumbnail": "https://BitPixelBlast.github.io/images/380.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cs-chaos-squad",
+    "thumbnail": "https://BitPixelBlast.github.io/images/381.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "fun-iq-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/382.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "coffee-color-blocks",
+    "thumbnail": "https://BitPixelBlast.github.io/images/383.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "number-master-run-and-merge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/384.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "smashdoll",
+    "thumbnail": "https://BitPixelBlast.github.io/images/385.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "color-hoop-sort",
+    "thumbnail": "https://BitPixelBlast.github.io/images/386.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "manyunya-saving-the-princess",
+    "thumbnail": "https://BitPixelBlast.github.io/images/387.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "pull-the-pin-fish-rescue",
+    "thumbnail": "https://BitPixelBlast.github.io/images/388.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "happy-fluffy-cubes",
+    "thumbnail": "https://BitPixelBlast.github.io/images/389.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "paris-kiss",
+    "thumbnail": "https://BitPixelBlast.github.io/images/390.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sort-and-style-back-to-school",
+    "thumbnail": "https://BitPixelBlast.github.io/images/391.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "cool-orange-ball-bounce-adventure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/392.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "kawaii-claw-merge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/393.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "noob-vs-zombie-apocalypse-shooting-pro",
+    "thumbnail": "https://BitPixelBlast.github.io/images/394.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "cool-girl-aesthetics",
+    "thumbnail": "https://BitPixelBlast.github.io/images/395.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "snow-road-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/396.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hidden-object-adventure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/397.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pyramid-jewels",
+    "thumbnail": "https://BitPixelBlast.github.io/images/398.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "foam-and-find",
+    "thumbnail": "https://BitPixelBlast.github.io/images/399.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-purrfect-cat-hotel",
+    "thumbnail": "https://BitPixelBlast.github.io/images/400.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "cookie-monster",
+    "thumbnail": "https://BitPixelBlast.github.io/images/401.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "lion-family-sim-online",
+    "thumbnail": "https://BitPixelBlast.github.io/images/402.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "bmg-crashday-2025",
+    "thumbnail": "https://BitPixelBlast.github.io/images/403.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "cunning-ginger",
+    "thumbnail": "https://BitPixelBlast.github.io/images/404.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "airport-security",
+    "thumbnail": "https://BitPixelBlast.github.io/images/405.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "bubble-shooter-ultimate",
+    "thumbnail": "https://BitPixelBlast.github.io/images/406.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "toilet-time",
+    "thumbnail": "https://BitPixelBlast.github.io/images/407.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sprunki-easter-coloring",
+    "thumbnail": "https://BitPixelBlast.github.io/images/408.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "clash-run",
+    "thumbnail": "https://BitPixelBlast.github.io/images/409.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "graduation-makeup-trends",
+    "thumbnail": "https://BitPixelBlast.github.io/images/410.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "monster-slayers",
+    "thumbnail": "https://BitPixelBlast.github.io/images/411.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "merge-2048-cake",
+    "thumbnail": "https://BitPixelBlast.github.io/images/412.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "bombaman-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/413.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "guess-the-drawing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/414.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "winter-mahjong",
+    "thumbnail": "https://BitPixelBlast.github.io/images/415.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "gold-miner-tower-defense",
+    "thumbnail": "https://BitPixelBlast.github.io/images/416.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "syder-hyper-drive",
+    "thumbnail": "https://BitPixelBlast.github.io/images/417.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "hero-rabbit-idle-survivor-rpg",
+    "thumbnail": "https://BitPixelBlast.github.io/images/418.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "sokoban-push-the-box",
+    "thumbnail": "https://BitPixelBlast.github.io/images/419.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "unscrew-wood-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/420.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "travel-story-match",
+    "thumbnail": "https://BitPixelBlast.github.io/images/421.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "submarine-attack",
+    "thumbnail": "https://BitPixelBlast.github.io/images/422.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "spider-noob-obstacle-course",
+    "thumbnail": "https://BitPixelBlast.github.io/images/423.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mona-lisa-fashion-experiments",
+    "thumbnail": "https://BitPixelBlast.github.io/images/424.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "huggy-mix-sprunki-music-box",
+    "thumbnail": "https://BitPixelBlast.github.io/images/425.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dalgona-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/426.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "luna-and-the-magic-maze",
+    "thumbnail": "https://BitPixelBlast.github.io/images/427.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "itilezen-sort-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/428.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "vex-x3m-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/429.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "minicraft-winterblock",
+    "thumbnail": "https://BitPixelBlast.github.io/images/430.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "mojicon-love-connect",
+    "thumbnail": "https://BitPixelBlast.github.io/images/431.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "robot-terminator-t-rex",
+    "thumbnail": "https://BitPixelBlast.github.io/images/432.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "candy-match-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/433.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "snow-race-3d-fun-racing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/434.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "just-slap-it",
+    "thumbnail": "https://BitPixelBlast.github.io/images/435.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "cut-in-half",
+    "thumbnail": "https://BitPixelBlast.github.io/images/436.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "solitaire-lamour",
+    "thumbnail": "https://BitPixelBlast.github.io/images/437.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "save-the-cats-bubble-shooter",
+    "thumbnail": "https://BitPixelBlast.github.io/images/438.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "barry-prison-christmas-adventure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/439.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "one-hero",
+    "thumbnail": "https://BitPixelBlast.github.io/images/440.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "uphill-rush-13",
+    "thumbnail": "https://BitPixelBlast.github.io/images/441.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "funny-doctor-emergency",
+    "thumbnail": "https://BitPixelBlast.github.io/images/442.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "deadlockio",
+    "thumbnail": "https://BitPixelBlast.github.io/images/443.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "sniper-wars-find-the-criminal",
+    "thumbnail": "https://BitPixelBlast.github.io/images/444.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "urus-city-driver",
+    "thumbnail": "https://BitPixelBlast.github.io/images/445.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "toy-match-3",
+    "thumbnail": "https://BitPixelBlast.github.io/images/446.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-candy-wheel-level-pack",
+    "thumbnail": "https://BitPixelBlast.github.io/images/447.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "pictures-riddle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/448.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "merge-flowers",
+    "thumbnail": "https://BitPixelBlast.github.io/images/449.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "zombie-terminator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/450.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "unicycle-balance-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/451.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "bubble-tea",
+    "thumbnail": "https://BitPixelBlast.github.io/images/452.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "port-shipping-tycoon",
+    "thumbnail": "https://BitPixelBlast.github.io/images/453.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "block-digger",
+    "thumbnail": "https://BitPixelBlast.github.io/images/454.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ultimate-destruction-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/455.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "scary-teacher-3d-returns",
+    "thumbnail": "https://BitPixelBlast.github.io/images/456.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "otu",
+    "thumbnail": "https://BitPixelBlast.github.io/images/457.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "zumba-quest",
+    "thumbnail": "https://BitPixelBlast.github.io/images/458.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "survival-on-raft-multiplayer",
+    "thumbnail": "https://BitPixelBlast.github.io/images/459.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stickman-vs-zombies-epic-fight",
+    "thumbnail": "https://BitPixelBlast.github.io/images/460.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "sokoban-pr",
+    "thumbnail": "https://BitPixelBlast.github.io/images/461.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "high-heels-collect-run",
+    "thumbnail": "https://BitPixelBlast.github.io/images/462.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "find-the-sprunki",
+    "thumbnail": "https://BitPixelBlast.github.io/images/463.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zombie-shooting-king",
+    "thumbnail": "https://BitPixelBlast.github.io/images/464.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "block-puzzle-frozen-jewel",
+    "thumbnail": "https://BitPixelBlast.github.io/images/465.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bubble-shooter-blast",
+    "thumbnail": "https://BitPixelBlast.github.io/images/466.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "monster-makeup-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/467.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "number-tubes",
+    "thumbnail": "https://BitPixelBlast.github.io/images/468.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "steal-brainrot-arena",
+    "thumbnail": "https://BitPixelBlast.github.io/images/469.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "russian-fishing-at-sea",
+    "thumbnail": "https://BitPixelBlast.github.io/images/470.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "cyberpunk-corporation",
+    "thumbnail": "https://BitPixelBlast.github.io/images/471.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "texas-holdem-poker",
+    "thumbnail": "https://BitPixelBlast.github.io/images/472.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "fruitsland-escape-from-the-amusement-park",
+    "thumbnail": "https://BitPixelBlast.github.io/images/473.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "madness-cars-destroy",
+    "thumbnail": "https://BitPixelBlast.github.io/images/474.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "hidden-paint-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/475.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "unicorn-princess-dress-up",
+    "thumbnail": "https://BitPixelBlast.github.io/images/476.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "angry-flappy",
+    "thumbnail": "https://BitPixelBlast.github.io/images/477.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "princesses-of-quadrobics",
+    "thumbnail": "https://BitPixelBlast.github.io/images/478.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "butterfly-sort-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/479.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "conduct-this",
+    "thumbnail": "https://BitPixelBlast.github.io/images/480.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-town",
+    "thumbnail": "https://BitPixelBlast.github.io/images/481.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "lunar-phase-battle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/482.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "falling-blocks-halloween-challenge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/483.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "football-rush-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/484.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "stickman-gun-shooter",
+    "thumbnail": "https://BitPixelBlast.github.io/images/485.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "merge-gun-fps-shooting-zombie",
+    "thumbnail": "https://BitPixelBlast.github.io/images/486.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "turbo-race",
+    "thumbnail": "https://BitPixelBlast.github.io/images/487.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "dino-egg-shooter",
+    "thumbnail": "https://BitPixelBlast.github.io/images/488.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "chicken-jump-a-tap-challenge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/489.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "candy-crunch-sugar-escape",
+    "thumbnail": "https://BitPixelBlast.github.io/images/490.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "wild-tanks",
+    "thumbnail": "https://BitPixelBlast.github.io/images/491.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "timberland-arrange-puzzle-game",
+    "thumbnail": "https://BitPixelBlast.github.io/images/492.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snakemaxx",
+    "thumbnail": "https://BitPixelBlast.github.io/images/493.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fun-mini-games-for-princess",
+    "thumbnail": "https://BitPixelBlast.github.io/images/494.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bricks-breaker-gravity-balls",
+    "thumbnail": "https://BitPixelBlast.github.io/images/495.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stack-n-sort",
+    "thumbnail": "https://BitPixelBlast.github.io/images/496.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "drive-ahead-sports",
+    "thumbnail": "https://BitPixelBlast.github.io/images/497.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "save-little-red-hood",
+    "thumbnail": "https://BitPixelBlast.github.io/images/498.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "football-fun",
+    "thumbnail": "https://BitPixelBlast.github.io/images/499.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "ludo-star",
+    "thumbnail": "https://BitPixelBlast.github.io/images/500.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "sprunki-mini-games",
+    "thumbnail": "https://BitPixelBlast.github.io/images/501.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "shape-shift",
+    "thumbnail": "https://BitPixelBlast.github.io/images/502.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bouncy-blob-race-obstacle-course",
+    "thumbnail": "https://BitPixelBlast.github.io/images/503.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "super-bitcoin-boy",
+    "thumbnail": "https://BitPixelBlast.github.io/images/504.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mega-ramp-bike-racing-tracks",
+    "thumbnail": "https://BitPixelBlast.github.io/images/505.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "word-search-universe",
+    "thumbnail": "https://BitPixelBlast.github.io/images/506.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "two-supra-drifters",
+    "thumbnail": "https://BitPixelBlast.github.io/images/507.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "neon-blast",
+    "thumbnail": "https://BitPixelBlast.github.io/images/508.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "chill-clicker",
+    "thumbnail": "https://BitPixelBlast.github.io/images/509.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pool-merge-mania",
+    "thumbnail": "https://BitPixelBlast.github.io/images/510.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "gal-sliding-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/511.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "survival-in-area-51",
+    "thumbnail": "https://BitPixelBlast.github.io/images/512.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "scary-banban-escape",
+    "thumbnail": "https://BitPixelBlast.github.io/images/513.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "dance-on-hotsteps-mobile",
+    "thumbnail": "https://BitPixelBlast.github.io/images/514.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "steal-items-io",
+    "thumbnail": "https://BitPixelBlast.github.io/images/515.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "crazy-plane-landing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/516.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "magic-flow",
+    "thumbnail": "https://BitPixelBlast.github.io/images/517.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "wreck-the-tower",
+    "thumbnail": "https://BitPixelBlast.github.io/images/518.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "zombie-space-episode-ii",
+    "thumbnail": "https://BitPixelBlast.github.io/images/519.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "muki-wizard",
+    "thumbnail": "https://BitPixelBlast.github.io/images/520.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stealth-master-sneak-cat",
+    "thumbnail": "https://BitPixelBlast.github.io/images/521.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "red-stickman-vs-craftmans",
+    "thumbnail": "https://BitPixelBlast.github.io/images/522.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hydraulic-press-2d-asmr",
+    "thumbnail": "https://BitPixelBlast.github.io/images/523.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "crazy-axe",
+    "thumbnail": "https://BitPixelBlast.github.io/images/524.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "valentines-love-link",
+    "thumbnail": "https://BitPixelBlast.github.io/images/525.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "brainrot-hole",
+    "thumbnail": "https://BitPixelBlast.github.io/images/526.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "royal-family-tree",
+    "thumbnail": "https://BitPixelBlast.github.io/images/527.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "soccer-arena-x",
+    "thumbnail": "https://BitPixelBlast.github.io/images/528.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "obby-1-pet-every-seconds",
+    "thumbnail": "https://BitPixelBlast.github.io/images/529.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "outside",
+    "thumbnail": "https://BitPixelBlast.github.io/images/530.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "frost-land-snow-survival",
+    "thumbnail": "https://BitPixelBlast.github.io/images/531.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "taylor-dress-studio-preppy-wild-west-glam",
+    "thumbnail": "https://BitPixelBlast.github.io/images/532.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "block-blaster-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/533.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "doge-rush-draw-home-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/534.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "walkers-attack",
+    "thumbnail": "https://BitPixelBlast.github.io/images/535.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "lovely-cat-pet-life",
+    "thumbnail": "https://BitPixelBlast.github.io/images/536.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "construction-truck-building-games-for-kids",
+    "thumbnail": "https://BitPixelBlast.github.io/images/537.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "parkour-block-7",
+    "thumbnail": "https://BitPixelBlast.github.io/images/538.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hidden-objects-island-secrets",
+    "thumbnail": "https://BitPixelBlast.github.io/images/539.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mafia-roulette",
+    "thumbnail": "https://BitPixelBlast.github.io/images/540.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "split-shot-ball-adventure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/541.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "sword-and-jewel",
+    "thumbnail": "https://BitPixelBlast.github.io/images/542.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "ninja-obby-parkour",
+    "thumbnail": "https://BitPixelBlast.github.io/images/543.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "doors-awakening",
+    "thumbnail": "https://BitPixelBlast.github.io/images/544.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-connect-cookware",
+    "thumbnail": "https://BitPixelBlast.github.io/images/545.webp",
+    "genre": "Cooking, Mahjong & Connect"
+  },
+  {
+    "id": "1010-elixir-alchemy",
+    "thumbnail": "https://BitPixelBlast.github.io/images/546.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "halloween-stickman",
+    "thumbnail": "https://BitPixelBlast.github.io/images/547.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "find-the-vampire",
+    "thumbnail": "https://BitPixelBlast.github.io/images/548.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "pet-tile-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/549.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "cat-chaos-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/550.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "flick-baseball-super-homerun",
+    "thumbnail": "https://BitPixelBlast.github.io/images/551.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "royal-bubble-blast",
+    "thumbnail": "https://BitPixelBlast.github.io/images/552.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "color-maze",
+    "thumbnail": "https://BitPixelBlast.github.io/images/553.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fix-da-brainrot",
+    "thumbnail": "https://BitPixelBlast.github.io/images/554.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "stand-on-the-right-color-robby",
+    "thumbnail": "https://BitPixelBlast.github.io/images/555.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "jailbreak-roblox-jumper",
+    "thumbnail": "https://BitPixelBlast.github.io/images/556.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "barbee-black-friday-fashion",
+    "thumbnail": "https://BitPixelBlast.github.io/images/557.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "merge-planets",
+    "thumbnail": "https://BitPixelBlast.github.io/images/558.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "pixel-number-diy-coloring",
+    "thumbnail": "https://BitPixelBlast.github.io/images/559.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "real-flight-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/560.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "best-friends-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/561.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crazy-stunts-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/562.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "family-squid-challenge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/563.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "sprunki-gets-surgery",
+    "thumbnail": "https://BitPixelBlast.github.io/images/564.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "infinite-craft",
+    "thumbnail": "https://BitPixelBlast.github.io/images/565.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-sort",
+    "thumbnail": "https://BitPixelBlast.github.io/images/566.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sticker-book-puzzle-color-by-number",
+    "thumbnail": "https://BitPixelBlast.github.io/images/567.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stick-rope-hero",
+    "thumbnail": "https://BitPixelBlast.github.io/images/568.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mahjong-quest-candyland-adventures",
+    "thumbnail": "https://BitPixelBlast.github.io/images/569.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "mini-scrapbook-paper",
+    "thumbnail": "https://BitPixelBlast.github.io/images/570.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tile-adventure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/571.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "money-factory-earn-a-billion",
+    "thumbnail": "https://BitPixelBlast.github.io/images/572.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "domino-smash-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/573.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-kulka",
+    "thumbnail": "https://BitPixelBlast.github.io/images/574.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "my-kitties-catworld",
+    "thumbnail": "https://BitPixelBlast.github.io/images/575.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hostage-fishes",
+    "thumbnail": "https://BitPixelBlast.github.io/images/576.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "digital-aqua",
+    "thumbnail": "https://BitPixelBlast.github.io/images/577.webp",
+    "genre": "Art, Care"
+  },
+  {
+    "id": "stickman-football",
+    "thumbnail": "https://BitPixelBlast.github.io/images/578.webp",
+    "genre": "Football, Agility"
+  },
+  {
+    "id": "mushroom-blocks",
+    "thumbnail": "https://BitPixelBlast.github.io/images/579.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "plant-girl-defense-zombie",
+    "thumbnail": "https://BitPixelBlast.github.io/images/580.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "murder-case-clue-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/581.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "magic-sorting",
+    "thumbnail": "https://BitPixelBlast.github.io/images/582.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "shine-seek",
+    "thumbnail": "https://BitPixelBlast.github.io/images/583.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gelatino",
+    "thumbnail": "https://BitPixelBlast.github.io/images/584.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-objects-vacation-in-brazil",
+    "thumbnail": "https://BitPixelBlast.github.io/images/585.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "northern-lights-the-secret-of-the-forest",
+    "thumbnail": "https://BitPixelBlast.github.io/images/586.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "race-clicker",
+    "thumbnail": "https://BitPixelBlast.github.io/images/587.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "glossy-bubbles-challenge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/588.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "candy-monster-raffi",
+    "thumbnail": "https://BitPixelBlast.github.io/images/589.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "broken-city-combat",
+    "thumbnail": "https://BitPixelBlast.github.io/images/590.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "untwist-road",
+    "thumbnail": "https://BitPixelBlast.github.io/images/591.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "castle-craft",
+    "thumbnail": "https://BitPixelBlast.github.io/images/592.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "boss-market",
+    "thumbnail": "https://BitPixelBlast.github.io/images/593.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "pixel-fun-color-by-number",
+    "thumbnail": "https://BitPixelBlast.github.io/images/594.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mega-ramp-car",
+    "thumbnail": "https://BitPixelBlast.github.io/images/595.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "digging-moles",
+    "thumbnail": "https://BitPixelBlast.github.io/images/596.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "red-stickman-vs-monster-school",
+    "thumbnail": "https://BitPixelBlast.github.io/images/597.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "travel-mahjong-deluxe",
+    "thumbnail": "https://BitPixelBlast.github.io/images/598.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "woodoku-block-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/599.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "animal-swipe",
+    "thumbnail": "https://BitPixelBlast.github.io/images/600.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "word-guess-game",
+    "thumbnail": "https://BitPixelBlast.github.io/images/601.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fashion-famous",
+    "thumbnail": "https://BitPixelBlast.github.io/images/602.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "falling-man",
+    "thumbnail": "https://BitPixelBlast.github.io/images/603.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "off-road-overdrive",
+    "thumbnail": "https://BitPixelBlast.github.io/images/604.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "tralala-connect",
+    "thumbnail": "https://BitPixelBlast.github.io/images/605.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "word-stars",
+    "thumbnail": "https://BitPixelBlast.github.io/images/606.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tictoc-urban-outfits",
+    "thumbnail": "https://BitPixelBlast.github.io/images/607.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "make-it-boom",
+    "thumbnail": "https://BitPixelBlast.github.io/images/608.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "minitoss",
+    "thumbnail": "https://BitPixelBlast.github.io/images/609.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "penguin-farm-ice-merge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/610.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "offroad-muddy-trucks",
+    "thumbnail": "https://BitPixelBlast.github.io/images/611.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "slidee",
+    "thumbnail": "https://BitPixelBlast.github.io/images/612.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tiles-matching",
+    "thumbnail": "https://BitPixelBlast.github.io/images/613.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "picture-puzzles",
+    "thumbnail": "https://BitPixelBlast.github.io/images/614.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "moto-attack-bike-racing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/615.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "doomsday-survival-rpg-shooter",
+    "thumbnail": "https://BitPixelBlast.github.io/images/616.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "granny-3-return-the-school",
+    "thumbnail": "https://BitPixelBlast.github.io/images/617.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "find-steal-brainrot-67-game",
+    "thumbnail": "https://BitPixelBlast.github.io/images/618.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crime-theft-gangster-paradise",
+    "thumbnail": "https://BitPixelBlast.github.io/images/619.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "bubble-shooter-witch-tower",
+    "thumbnail": "https://BitPixelBlast.github.io/images/620.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "atlantic-sky-hunter-xtreme",
+    "thumbnail": "https://BitPixelBlast.github.io/images/621.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "cubes-2048io",
+    "thumbnail": "https://BitPixelBlast.github.io/images/622.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "hill-climbing-mania",
+    "thumbnail": "https://BitPixelBlast.github.io/images/623.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cartoon-moto-stunt",
+    "thumbnail": "https://BitPixelBlast.github.io/images/624.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "steal-brainrot-duel",
+    "thumbnail": "https://BitPixelBlast.github.io/images/625.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "pixel-art",
+    "thumbnail": "https://BitPixelBlast.github.io/images/626.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stick-tactics-destruction",
+    "thumbnail": "https://BitPixelBlast.github.io/images/627.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "the-prism-city-detectives",
+    "thumbnail": "https://BitPixelBlast.github.io/images/628.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "suika-kawaii-cat-merge-game",
+    "thumbnail": "https://BitPixelBlast.github.io/images/629.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pim-path",
+    "thumbnail": "https://BitPixelBlast.github.io/images/630.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "flying-bill",
+    "thumbnail": "https://BitPixelBlast.github.io/images/631.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "squarehead-hero",
+    "thumbnail": "https://BitPixelBlast.github.io/images/632.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "soccer-tournament",
+    "thumbnail": "https://BitPixelBlast.github.io/images/633.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "flower-fairy-adventure-story",
+    "thumbnail": "https://BitPixelBlast.github.io/images/634.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "chill-girl-clicker",
+    "thumbnail": "https://BitPixelBlast.github.io/images/635.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "mages-secret",
+    "thumbnail": "https://BitPixelBlast.github.io/images/636.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "stack-sorting",
+    "thumbnail": "https://BitPixelBlast.github.io/images/637.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "cannons-blast-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/638.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "bubble-blitz-galaxy",
+    "thumbnail": "https://BitPixelBlast.github.io/images/639.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "2048-run-gorgeous-balls",
+    "thumbnail": "https://BitPixelBlast.github.io/images/640.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "3d-match-puzzle-mania",
+    "thumbnail": "https://BitPixelBlast.github.io/images/641.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-cat-restaurant",
+    "thumbnail": "https://BitPixelBlast.github.io/images/642.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "dice-merge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/643.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "teacher-simulator-christmas-exam",
+    "thumbnail": "https://BitPixelBlast.github.io/images/644.webp",
+    "genre": "Quiz, Simulation"
+  },
+  {
+    "id": "witchy-and-the-puzzle-adventures",
+    "thumbnail": "https://BitPixelBlast.github.io/images/645.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "car-jam-traffic-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/646.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "night-club-security",
+    "thumbnail": "https://BitPixelBlast.github.io/images/647.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "princess-rescue-fruit-connect",
+    "thumbnail": "https://BitPixelBlast.github.io/images/648.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "stacking-match",
+    "thumbnail": "https://BitPixelBlast.github.io/images/649.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "labubu-and-me",
+    "thumbnail": "https://BitPixelBlast.github.io/images/650.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "wild-west-match-3",
+    "thumbnail": "https://BitPixelBlast.github.io/images/651.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "face-changes",
+    "thumbnail": "https://BitPixelBlast.github.io/images/652.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "solitaire-tail",
+    "thumbnail": "https://BitPixelBlast.github.io/images/653.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "pirates-match-the-lost-treasure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/654.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "67-clicker-tap-tap",
+    "thumbnail": "https://BitPixelBlast.github.io/images/655.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "ballpoint",
+    "thumbnail": "https://BitPixelBlast.github.io/images/656.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "supermarket-shopping-for-kids",
+    "thumbnail": "https://BitPixelBlast.github.io/images/657.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mermaid-princess-avater-castle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/658.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bubble-sorting-infinite-remastered",
+    "thumbnail": "https://BitPixelBlast.github.io/images/659.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "aloha-mahjong",
+    "thumbnail": "https://BitPixelBlast.github.io/images/660.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "deadly-parkour",
+    "thumbnail": "https://BitPixelBlast.github.io/images/661.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "survival-island-evo",
+    "thumbnail": "https://BitPixelBlast.github.io/images/662.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "skate-hooligans",
+    "thumbnail": "https://BitPixelBlast.github.io/images/663.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "geometry-arrow",
+    "thumbnail": "https://BitPixelBlast.github.io/images/664.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "farm-match-seasons-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/665.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "the-drag-racing-challenge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/666.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "hazmob-fps",
+    "thumbnail": "https://BitPixelBlast.github.io/images/667.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "mermaids-spot-the-differences",
+    "thumbnail": "https://BitPixelBlast.github.io/images/668.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "rotate-rings-circle-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/669.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "skillful-finger",
+    "thumbnail": "https://BitPixelBlast.github.io/images/670.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "student-and-teacher",
+    "thumbnail": "https://BitPixelBlast.github.io/images/671.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "level-up-mutants",
+    "thumbnail": "https://BitPixelBlast.github.io/images/672.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "classic-backgammon",
+    "thumbnail": "https://BitPixelBlast.github.io/images/673.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "skillwarz",
+    "thumbnail": "https://BitPixelBlast.github.io/images/674.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-at-home-scandinavian-edition",
+    "thumbnail": "https://BitPixelBlast.github.io/images/675.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "hair-stack-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/676.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "battle-tanks-firestorm",
+    "thumbnail": "https://BitPixelBlast.github.io/images/677.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "force-master-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/678.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "whats-grandma-hiding",
+    "thumbnail": "https://BitPixelBlast.github.io/images/679.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "fashionista-avatar-studio-dress-up",
+    "thumbnail": "https://BitPixelBlast.github.io/images/680.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "obby-halloween-danger-skate",
+    "thumbnail": "https://BitPixelBlast.github.io/images/681.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "baling-bum",
+    "thumbnail": "https://BitPixelBlast.github.io/images/682.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "plane-crash-ragdoll-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/683.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bubble-race-party",
+    "thumbnail": "https://BitPixelBlast.github.io/images/684.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "mobile-phone-case-diy",
+    "thumbnail": "https://BitPixelBlast.github.io/images/685.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "princess-valentines-crush",
+    "thumbnail": "https://BitPixelBlast.github.io/images/686.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "21a",
+    "thumbnail": "https://BitPixelBlast.github.io/images/687.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "madness-sheriffs-compound-official",
+    "thumbnail": "https://BitPixelBlast.github.io/images/688.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "jello-bubbles",
+    "thumbnail": "https://BitPixelBlast.github.io/images/689.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "teacher-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/690.webp",
+    "genre": "Quiz, Simulation"
+  },
+  {
+    "id": "hidden-pairs-mahjong",
+    "thumbnail": "https://BitPixelBlast.github.io/images/691.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "candy-jewels",
+    "thumbnail": "https://BitPixelBlast.github.io/images/692.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hidden-object-clues-and-mysteries",
+    "thumbnail": "https://BitPixelBlast.github.io/images/693.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "vega-mix-fairy-town",
+    "thumbnail": "https://BitPixelBlast.github.io/images/694.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "brainrot-clicker",
+    "thumbnail": "https://BitPixelBlast.github.io/images/695.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "kings-and-queens-match-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/696.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "idle-casino-manager-tycoon",
+    "thumbnail": "https://BitPixelBlast.github.io/images/697.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "horror-minecraft-partytime",
+    "thumbnail": "https://BitPixelBlast.github.io/images/698.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "key-quest",
+    "thumbnail": "https://BitPixelBlast.github.io/images/699.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "math-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/700.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "merge-tower-hero",
+    "thumbnail": "https://BitPixelBlast.github.io/images/701.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "bouncing-chick",
+    "thumbnail": "https://BitPixelBlast.github.io/images/702.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "stockings-dilemma",
+    "thumbnail": "https://BitPixelBlast.github.io/images/703.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "99-nights-bloxd-io",
+    "thumbnail": "https://BitPixelBlast.github.io/images/704.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "truck-simulator-arcade-championship",
+    "thumbnail": "https://BitPixelBlast.github.io/images/705.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "extreme-makeover-harley-edition",
+    "thumbnail": "https://BitPixelBlast.github.io/images/706.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "square-world-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/707.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "archery-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/708.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "stickman-shooter-bros",
+    "thumbnail": "https://BitPixelBlast.github.io/images/709.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "freecell-solitaire",
+    "thumbnail": "https://BitPixelBlast.github.io/images/710.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "obby-pogo-parkour",
+    "thumbnail": "https://BitPixelBlast.github.io/images/711.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "mental-hospital-escape",
+    "thumbnail": "https://BitPixelBlast.github.io/images/712.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "shell-strikers",
+    "thumbnail": "https://BitPixelBlast.github.io/images/713.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "blade-forge-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/714.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "knee-case-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/715.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "mart-puzzle-shopping-sort",
+    "thumbnail": "https://BitPixelBlast.github.io/images/716.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "arrow-survival-15-seconds",
+    "thumbnail": "https://BitPixelBlast.github.io/images/717.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "stunt-multiplayer-arena",
+    "thumbnail": "https://BitPixelBlast.github.io/images/718.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "stickman-zombie-vs-stickman-hero",
+    "thumbnail": "https://BitPixelBlast.github.io/images/719.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "save-her-tour",
+    "thumbnail": "https://BitPixelBlast.github.io/images/720.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "grill-it-all",
+    "thumbnail": "https://BitPixelBlast.github.io/images/721.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "frog-knight",
+    "thumbnail": "https://BitPixelBlast.github.io/images/722.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ninja-crossword-challenge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/723.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "word-cross",
+    "thumbnail": "https://BitPixelBlast.github.io/images/724.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nitro-speed-car-racing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/725.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "basket-swap",
+    "thumbnail": "https://BitPixelBlast.github.io/images/726.webp",
+    "genre": "Puzzle, Basketball"
+  },
+  {
+    "id": "thief-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/727.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hamstercycle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/728.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "car-crash-test-abandoned-city",
+    "thumbnail": "https://BitPixelBlast.github.io/images/729.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "idle-dairy-farm-tycoon",
+    "thumbnail": "https://BitPixelBlast.github.io/images/730.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "3d-ball-balancer",
+    "thumbnail": "https://BitPixelBlast.github.io/images/731.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-rescue-draw-2-save",
+    "thumbnail": "https://BitPixelBlast.github.io/images/732.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pumpking-vs-mummy",
+    "thumbnail": "https://BitPixelBlast.github.io/images/733.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "cooking-restaurant-kitchen",
+    "thumbnail": "https://BitPixelBlast.github.io/images/734.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "the-noob-aventures",
+    "thumbnail": "https://BitPixelBlast.github.io/images/735.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "spider-rope-hero-city-fight",
+    "thumbnail": "https://BitPixelBlast.github.io/images/736.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "mickey-run-adventure-game",
+    "thumbnail": "https://BitPixelBlast.github.io/images/737.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "idle-hotel-empire",
+    "thumbnail": "https://BitPixelBlast.github.io/images/738.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "nubik-create-your-place",
+    "thumbnail": "https://BitPixelBlast.github.io/images/739.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "super-swing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/740.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "arrow-tap-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/741.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "toy-cars-3d-racing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/742.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "paint-tiles-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/743.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "countryside-driving-quest",
+    "thumbnail": "https://BitPixelBlast.github.io/images/744.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "murder-mystery",
+    "thumbnail": "https://BitPixelBlast.github.io/images/745.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "stickman-weapon-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/746.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "tictoc-braided-hairstyles",
+    "thumbnail": "https://BitPixelBlast.github.io/images/747.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "single-stroke-energy-line-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/748.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "donut-box",
+    "thumbnail": "https://BitPixelBlast.github.io/images/749.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "art-puzzle-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/750.webp",
+    "genre": "Puzzle, Art, Casual"
+  },
+  {
+    "id": "2-cars-run",
+    "thumbnail": "https://BitPixelBlast.github.io/images/751.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "food-truck-chef-cooking",
+    "thumbnail": "https://BitPixelBlast.github.io/images/752.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ragdoll-archers",
+    "thumbnail": "https://BitPixelBlast.github.io/images/753.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-to-fish-fight",
+    "thumbnail": "https://BitPixelBlast.github.io/images/754.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "microplastics-feeding",
+    "thumbnail": "https://BitPixelBlast.github.io/images/755.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ultimate-plants-td",
+    "thumbnail": "https://BitPixelBlast.github.io/images/756.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "monster-vs-zombie",
+    "thumbnail": "https://BitPixelBlast.github.io/images/757.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "squad-assembler",
+    "thumbnail": "https://BitPixelBlast.github.io/images/758.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "snap-fix",
+    "thumbnail": "https://BitPixelBlast.github.io/images/759.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gummy-merge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/760.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "merge-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/761.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "vsco-girl-aesthetic",
+    "thumbnail": "https://BitPixelBlast.github.io/images/762.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "brain-draw-line",
+    "thumbnail": "https://BitPixelBlast.github.io/images/763.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "blue-mushroom-cat-run",
+    "thumbnail": "https://BitPixelBlast.github.io/images/764.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "spotdiffers",
+    "thumbnail": "https://BitPixelBlast.github.io/images/765.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bomb-evolution",
+    "thumbnail": "https://BitPixelBlast.github.io/images/766.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "robocarpoli",
+    "thumbnail": "https://BitPixelBlast.github.io/images/767.webp",
+    "genre": "Adventure, Educational"
+  },
+  {
+    "id": "mobile-phone-case-design-diy",
+    "thumbnail": "https://BitPixelBlast.github.io/images/768.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "unlock-the-bolts",
+    "thumbnail": "https://BitPixelBlast.github.io/images/769.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "tony-archer",
+    "thumbnail": "https://BitPixelBlast.github.io/images/770.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "mr-drifter-car-chase-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/771.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "sort-water-now",
+    "thumbnail": "https://BitPixelBlast.github.io/images/772.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "2-player-games-kids-kitchen",
+    "thumbnail": "https://BitPixelBlast.github.io/images/773.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "elytra-flight",
+    "thumbnail": "https://BitPixelBlast.github.io/images/774.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mahjong-classic-webgl",
+    "thumbnail": "https://BitPixelBlast.github.io/images/775.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "xeno-defense-protocol",
+    "thumbnail": "https://BitPixelBlast.github.io/images/776.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "matching-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/777.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-four-rivers",
+    "thumbnail": "https://BitPixelBlast.github.io/images/778.webp",
+    "genre": "Cards, Mahjong & Connect"
+  },
+  {
+    "id": "cubatoria-merge-2048",
+    "thumbnail": "https://BitPixelBlast.github.io/images/779.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "fairy-wingerella",
+    "thumbnail": "https://BitPixelBlast.github.io/images/780.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "just-dice-random-tower-defence",
+    "thumbnail": "https://BitPixelBlast.github.io/images/781.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "car-parking-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/782.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "stunt-fury",
+    "thumbnail": "https://BitPixelBlast.github.io/images/783.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "idle-bank",
+    "thumbnail": "https://BitPixelBlast.github.io/images/784.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "kids-supermarket",
+    "thumbnail": "https://BitPixelBlast.github.io/images/785.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "carnage-battle-arena",
+    "thumbnail": "https://BitPixelBlast.github.io/images/786.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "around-elbrus",
+    "thumbnail": "https://BitPixelBlast.github.io/images/787.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "halloween-store-sort",
+    "thumbnail": "https://BitPixelBlast.github.io/images/788.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "classic-mine-sweeper",
+    "thumbnail": "https://BitPixelBlast.github.io/images/789.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tap-bead",
+    "thumbnail": "https://BitPixelBlast.github.io/images/790.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-brain-test-games",
+    "thumbnail": "https://BitPixelBlast.github.io/images/791.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "granny-gta-vegas",
+    "thumbnail": "https://BitPixelBlast.github.io/images/792.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "fish-story-3",
+    "thumbnail": "https://BitPixelBlast.github.io/images/793.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "home-island",
+    "thumbnail": "https://BitPixelBlast.github.io/images/794.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sea-monsters-mahjong",
+    "thumbnail": "https://BitPixelBlast.github.io/images/795.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "pixel-destroyer",
+    "thumbnail": "https://BitPixelBlast.github.io/images/796.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "crazy-office-slap-and-smash",
+    "thumbnail": "https://BitPixelBlast.github.io/images/797.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-raider",
+    "thumbnail": "https://BitPixelBlast.github.io/images/798.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "high-heels-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/799.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "cute-folding-paper",
+    "thumbnail": "https://BitPixelBlast.github.io/images/800.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "one-line",
+    "thumbnail": "https://BitPixelBlast.github.io/images/801.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "juicy-match-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/802.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hero-transform-race",
+    "thumbnail": "https://BitPixelBlast.github.io/images/803.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "paperio-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/804.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "perfect-job-run",
+    "thumbnail": "https://BitPixelBlast.github.io/images/805.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "color-yarn-sort",
+    "thumbnail": "https://BitPixelBlast.github.io/images/806.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "office-pyramid-solitaire",
+    "thumbnail": "https://BitPixelBlast.github.io/images/807.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "vex-x3m",
+    "thumbnail": "https://BitPixelBlast.github.io/images/808.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "chibi-doll-avatar-creator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/809.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "jelly-belly-make-the-elephant",
+    "thumbnail": "https://BitPixelBlast.github.io/images/810.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "family-tree-emoji",
+    "thumbnail": "https://BitPixelBlast.github.io/images/811.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "earthquake-io",
+    "thumbnail": "https://BitPixelBlast.github.io/images/812.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "my-parking-lot",
+    "thumbnail": "https://BitPixelBlast.github.io/images/813.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "link-flow",
+    "thumbnail": "https://BitPixelBlast.github.io/images/814.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "island-battle-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/815.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "sid-ginny-y2k-glam-clash",
+    "thumbnail": "https://BitPixelBlast.github.io/images/816.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hexa-go",
+    "thumbnail": "https://BitPixelBlast.github.io/images/817.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tile-hex-world-red-vs-blue",
+    "thumbnail": "https://BitPixelBlast.github.io/images/818.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "uncle-hit-punch-the-dummy",
+    "thumbnail": "https://BitPixelBlast.github.io/images/819.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "dungeon-master-cult-craft",
+    "thumbnail": "https://BitPixelBlast.github.io/images/820.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fruit-sort-logic",
+    "thumbnail": "https://BitPixelBlast.github.io/images/821.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brawl-stars-battle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/822.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "okay",
+    "thumbnail": "https://BitPixelBlast.github.io/images/823.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "spin-shot-siege",
+    "thumbnail": "https://BitPixelBlast.github.io/images/824.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "bus-jam",
+    "thumbnail": "https://BitPixelBlast.github.io/images/825.webp",
+    "genre": "Puzzle, Racing & Driving"
+  },
+  {
+    "id": "crazy-screw-king",
+    "thumbnail": "https://BitPixelBlast.github.io/images/826.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "parkour-world-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/827.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "fruit-merge-reloaded",
+    "thumbnail": "https://BitPixelBlast.github.io/images/828.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "fashion-princess-dress-up-for-girls",
+    "thumbnail": "https://BitPixelBlast.github.io/images/829.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "balloon-match-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/830.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickman-adventure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/831.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "nutcracker-new-years-adventures",
+    "thumbnail": "https://BitPixelBlast.github.io/images/832.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "wormsarenaio",
+    "thumbnail": "https://BitPixelBlast.github.io/images/833.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "restaurant-simulator-burgers-pizza",
+    "thumbnail": "https://BitPixelBlast.github.io/images/834.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "block-tnt-blast",
+    "thumbnail": "https://BitPixelBlast.github.io/images/835.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "color-3d-bump-it-up",
+    "thumbnail": "https://BitPixelBlast.github.io/images/836.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "goo-slime-jump",
+    "thumbnail": "https://BitPixelBlast.github.io/images/837.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "two-stunt-racers",
+    "thumbnail": "https://BitPixelBlast.github.io/images/838.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "pool-merge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/839.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hexa-sort-winter-edition",
+    "thumbnail": "https://BitPixelBlast.github.io/images/840.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "geometry-rush",
+    "thumbnail": "https://BitPixelBlast.github.io/images/841.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "parkour-obby",
+    "thumbnail": "https://BitPixelBlast.github.io/images/842.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "dark-myth-monkey-merge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/843.webp",
+    "genre": "Adventure, Merge"
+  },
+  {
+    "id": "dop-puzzle-erase-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/844.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cryptograph",
+    "thumbnail": "https://BitPixelBlast.github.io/images/845.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "drive-to-survive",
+    "thumbnail": "https://BitPixelBlast.github.io/images/846.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "mojicon-garden-connect",
+    "thumbnail": "https://BitPixelBlast.github.io/images/847.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "live-star-doll-dress-up",
+    "thumbnail": "https://BitPixelBlast.github.io/images/848.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "grow-a-garden---growden-io",
+    "thumbnail": "https://BitPixelBlast.github.io/images/849.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blockpuzzle-color-blast",
+    "thumbnail": "https://BitPixelBlast.github.io/images/850.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "meme-mukbang-asmr-game",
+    "thumbnail": "https://BitPixelBlast.github.io/images/851.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "blob-hero",
+    "thumbnail": "https://BitPixelBlast.github.io/images/852.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "gluttony",
+    "thumbnail": "https://BitPixelBlast.github.io/images/853.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pyramidz",
+    "thumbnail": "https://BitPixelBlast.github.io/images/854.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "block-color-puzzle-blast",
+    "thumbnail": "https://BitPixelBlast.github.io/images/855.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "goods-triple-match-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/856.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "spider-solitaire-fuw",
+    "thumbnail": "https://BitPixelBlast.github.io/images/857.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brainrot-click-to-hatch",
+    "thumbnail": "https://BitPixelBlast.github.io/images/858.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "join-clash-color-button",
+    "thumbnail": "https://BitPixelBlast.github.io/images/859.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "open-house",
+    "thumbnail": "https://BitPixelBlast.github.io/images/860.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hide-seek-go-and-find",
+    "thumbnail": "https://BitPixelBlast.github.io/images/861.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "juicy-match",
+    "thumbnail": "https://BitPixelBlast.github.io/images/862.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "emergency-operator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/863.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ladder-master-color-run",
+    "thumbnail": "https://BitPixelBlast.github.io/images/864.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "drop-bricks-breaker",
+    "thumbnail": "https://BitPixelBlast.github.io/images/865.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "magic-finger-puzzle-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/866.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "color-dash",
+    "thumbnail": "https://BitPixelBlast.github.io/images/867.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brainrot-evolution",
+    "thumbnail": "https://BitPixelBlast.github.io/images/868.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-jailbreak-story",
+    "thumbnail": "https://BitPixelBlast.github.io/images/869.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "strategy-of-war-tanks-and-helicopters",
+    "thumbnail": "https://BitPixelBlast.github.io/images/870.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "hide-and-seek-blue-monster",
+    "thumbnail": "https://BitPixelBlast.github.io/images/871.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "puzzle-lab",
+    "thumbnail": "https://BitPixelBlast.github.io/images/872.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dino-ranch",
+    "thumbnail": "https://BitPixelBlast.github.io/images/873.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "cloak-master-shooter-run",
+    "thumbnail": "https://BitPixelBlast.github.io/images/874.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "portals",
+    "thumbnail": "https://BitPixelBlast.github.io/images/875.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "jigsolitaire",
+    "thumbnail": "https://BitPixelBlast.github.io/images/876.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "squidgameio",
+    "thumbnail": "https://BitPixelBlast.github.io/images/877.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "merge-2048-gun-rush",
+    "thumbnail": "https://BitPixelBlast.github.io/images/878.webp",
+    "genre": "Shooter, Merge"
+  },
+  {
+    "id": "super-stock-stack",
+    "thumbnail": "https://BitPixelBlast.github.io/images/879.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "gt-championship-arcade",
+    "thumbnail": "https://BitPixelBlast.github.io/images/880.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "spaceflight-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/881.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "sandbox-destroy-the-ragdoll",
+    "thumbnail": "https://BitPixelBlast.github.io/images/882.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "solitaire-story-tripeaks-5",
+    "thumbnail": "https://BitPixelBlast.github.io/images/883.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "love-cats-rope",
+    "thumbnail": "https://BitPixelBlast.github.io/images/884.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "among-squid-challenge-online",
+    "thumbnail": "https://BitPixelBlast.github.io/images/885.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "turbo-stunt-racing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/886.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "lost-puppy-rescue-and-care",
+    "thumbnail": "https://BitPixelBlast.github.io/images/887.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "physics-balls",
+    "thumbnail": "https://BitPixelBlast.github.io/images/888.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pursuit-rampage",
+    "thumbnail": "https://BitPixelBlast.github.io/images/889.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "mx-offroad-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/890.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fashionista-christmas-eve-party",
+    "thumbnail": "https://BitPixelBlast.github.io/images/891.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "labuba-halloween-infestation",
+    "thumbnail": "https://BitPixelBlast.github.io/images/892.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "capybara-skewer-match",
+    "thumbnail": "https://BitPixelBlast.github.io/images/893.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-3d-match-3-balloons",
+    "thumbnail": "https://BitPixelBlast.github.io/images/894.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "commando-force-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/895.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "horror-school-detective-story",
+    "thumbnail": "https://BitPixelBlast.github.io/images/896.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "miracle-mahjong",
+    "thumbnail": "https://BitPixelBlast.github.io/images/897.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "crazy-bubble-breaker",
+    "thumbnail": "https://BitPixelBlast.github.io/images/898.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "stickman-choosing-actions",
+    "thumbnail": "https://BitPixelBlast.github.io/images/899.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "emoji-challenge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/900.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "frost-defense",
+    "thumbnail": "https://BitPixelBlast.github.io/images/901.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "color-dodge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/902.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "word-connect-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/903.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "diy-makeup-salon-spa-makeover-studio",
+    "thumbnail": "https://BitPixelBlast.github.io/images/904.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "shape-transform-race",
+    "thumbnail": "https://BitPixelBlast.github.io/images/905.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "eastern-star-vs-city-style-icon",
+    "thumbnail": "https://BitPixelBlast.github.io/images/906.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "happy-town",
+    "thumbnail": "https://BitPixelBlast.github.io/images/907.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-combo",
+    "thumbnail": "https://BitPixelBlast.github.io/images/908.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mr-reckless-car-chase-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/909.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "snowboard-game-party",
+    "thumbnail": "https://BitPixelBlast.github.io/images/910.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "celebrity-aesthetic-challenge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/911.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "pixel-journey",
+    "thumbnail": "https://BitPixelBlast.github.io/images/912.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "graffiti-tags-spray-painting",
+    "thumbnail": "https://BitPixelBlast.github.io/images/913.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mansion-tale-merge-secrets",
+    "thumbnail": "https://BitPixelBlast.github.io/images/914.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "omg-word-rainbow",
+    "thumbnail": "https://BitPixelBlast.github.io/images/915.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "car-park-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/916.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "basketball-rush",
+    "thumbnail": "https://BitPixelBlast.github.io/images/917.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "soccer-duel",
+    "thumbnail": "https://BitPixelBlast.github.io/images/918.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "prinxy-winterella",
+    "thumbnail": "https://BitPixelBlast.github.io/images/919.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "donut-run",
+    "thumbnail": "https://BitPixelBlast.github.io/images/920.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "worldguessr",
+    "thumbnail": "https://BitPixelBlast.github.io/images/921.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "thats-not-my-neighbor",
+    "thumbnail": "https://BitPixelBlast.github.io/images/922.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "divinex",
+    "thumbnail": "https://BitPixelBlast.github.io/images/923.webp",
+    "genre": "Art, Mahjong & Connect"
+  },
+  {
+    "id": "moto-x3m-dead-ahead",
+    "thumbnail": "https://BitPixelBlast.github.io/images/924.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "merge-magnat-ideal-store",
+    "thumbnail": "https://BitPixelBlast.github.io/images/925.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "tobinin",
+    "thumbnail": "https://BitPixelBlast.github.io/images/926.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ragdoll-bounce",
+    "thumbnail": "https://BitPixelBlast.github.io/images/927.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "fishing-life",
+    "thumbnail": "https://BitPixelBlast.github.io/images/928.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "fragen",
+    "thumbnail": "https://BitPixelBlast.github.io/images/929.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-climb-race-the-ultimate-hill-climbing-challenge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/930.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "cookie-land",
+    "thumbnail": "https://BitPixelBlast.github.io/images/931.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "beat-blader-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/932.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sokoban-puzzle-game",
+    "thumbnail": "https://BitPixelBlast.github.io/images/933.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brainrot-cleaning",
+    "thumbnail": "https://BitPixelBlast.github.io/images/934.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "gt-cars-mega-ramps",
+    "thumbnail": "https://BitPixelBlast.github.io/images/935.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "escape-from-tung-tung-sahur",
+    "thumbnail": "https://BitPixelBlast.github.io/images/936.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "idle-restaurant-tycoon",
+    "thumbnail": "https://BitPixelBlast.github.io/images/937.webp",
+    "genre": "Cooking, Strategy"
+  },
+  {
+    "id": "merge-fruit",
+    "thumbnail": "https://BitPixelBlast.github.io/images/938.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "fish-story-4",
+    "thumbnail": "https://BitPixelBlast.github.io/images/939.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "crazy-tunnel",
+    "thumbnail": "https://BitPixelBlast.github.io/images/940.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "bubble-shooter-butterfly",
+    "thumbnail": "https://BitPixelBlast.github.io/images/941.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "piggy-clicker",
+    "thumbnail": "https://BitPixelBlast.github.io/images/942.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bubble-shooter-hawaii",
+    "thumbnail": "https://BitPixelBlast.github.io/images/943.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "bubble-shooter-panda-blast",
+    "thumbnail": "https://BitPixelBlast.github.io/images/944.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "master-blender",
+    "thumbnail": "https://BitPixelBlast.github.io/images/945.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "back-2-school-makeover",
+    "thumbnail": "https://BitPixelBlast.github.io/images/946.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "romantic-match-tactics",
+    "thumbnail": "https://BitPixelBlast.github.io/images/947.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "ramp-car-vs-police-chase-psm",
+    "thumbnail": "https://BitPixelBlast.github.io/images/948.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hunter-underwater-spearfishing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/949.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "headless-joe",
+    "thumbnail": "https://BitPixelBlast.github.io/images/950.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mad-dash",
+    "thumbnail": "https://BitPixelBlast.github.io/images/951.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "kitchen-sorting",
+    "thumbnail": "https://BitPixelBlast.github.io/images/952.webp",
+    "genre": "Cooking, Puzzle"
+  },
+  {
+    "id": "triple-sort-3d-home-design",
+    "thumbnail": "https://BitPixelBlast.github.io/images/953.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "zombies-and-guns",
+    "thumbnail": "https://BitPixelBlast.github.io/images/954.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "athena-match-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/955.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "nuts-puzzle-sort-by-color",
+    "thumbnail": "https://BitPixelBlast.github.io/images/956.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tap-car",
+    "thumbnail": "https://BitPixelBlast.github.io/images/957.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "kids-coloring",
+    "thumbnail": "https://BitPixelBlast.github.io/images/958.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "fish-feeding",
+    "thumbnail": "https://BitPixelBlast.github.io/images/959.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sniper-shot-secret-mission",
+    "thumbnail": "https://BitPixelBlast.github.io/images/960.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "world-solitaire-tripeaks-",
+    "thumbnail": "https://BitPixelBlast.github.io/images/961.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "challenger-city-driver",
+    "thumbnail": "https://BitPixelBlast.github.io/images/962.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "indygirl-and-the-golden-skull",
+    "thumbnail": "https://BitPixelBlast.github.io/images/963.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "burger-empire",
+    "thumbnail": "https://BitPixelBlast.github.io/images/964.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "celebrities-get-ready-for-christmas",
+    "thumbnail": "https://BitPixelBlast.github.io/images/965.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "draw-war",
+    "thumbnail": "https://BitPixelBlast.github.io/images/966.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "pick-brainrot-3d-battle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/967.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "idle-baseball-tycoon",
+    "thumbnail": "https://BitPixelBlast.github.io/images/968.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "ropeway-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/969.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "italian-brainrot-quiz",
+    "thumbnail": "https://BitPixelBlast.github.io/images/970.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "mahjong-garden",
+    "thumbnail": "https://BitPixelBlast.github.io/images/971.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "energy-factory-idle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/972.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "save-baby-capybaras-pull-pin",
+    "thumbnail": "https://BitPixelBlast.github.io/images/973.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cute-sheep-skyblock",
+    "thumbnail": "https://BitPixelBlast.github.io/images/974.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "office-knight-3d-castle-defense",
+    "thumbnail": "https://BitPixelBlast.github.io/images/975.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "mega-lamba-ramp",
+    "thumbnail": "https://BitPixelBlast.github.io/images/976.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "impostor-among-us-escape-from-prison",
+    "thumbnail": "https://BitPixelBlast.github.io/images/977.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "burger-cafe-cooking-games-for-kids",
+    "thumbnail": "https://BitPixelBlast.github.io/images/978.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "number-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/979.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tropical-match",
+    "thumbnail": "https://BitPixelBlast.github.io/images/980.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "polytrack",
+    "thumbnail": "https://BitPixelBlast.github.io/images/981.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sprunki-garden",
+    "thumbnail": "https://BitPixelBlast.github.io/images/982.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "italian-brainrot-bike-rush",
+    "thumbnail": "https://BitPixelBlast.github.io/images/983.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "zen-mini-games-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/984.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "slinger-block",
+    "thumbnail": "https://BitPixelBlast.github.io/images/985.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-little-car-wash",
+    "thumbnail": "https://BitPixelBlast.github.io/images/986.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "backflip-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/987.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "robot-transform-race",
+    "thumbnail": "https://BitPixelBlast.github.io/images/988.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "moto-road-rash-3d-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/989.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fire-truck-driving-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/990.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "mystic-object-hunt",
+    "thumbnail": "https://BitPixelBlast.github.io/images/991.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "king-kong-chaos",
+    "thumbnail": "https://BitPixelBlast.github.io/images/992.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "aim-ninja",
+    "thumbnail": "https://BitPixelBlast.github.io/images/993.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dollys-restaurant-organizing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/994.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "jewelry-idle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/995.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "farm-ring-idle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/996.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-survival",
+    "thumbnail": "https://BitPixelBlast.github.io/images/997.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pixel-mini-golf",
+    "thumbnail": "https://BitPixelBlast.github.io/images/998.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "overprotective-boyfriend",
+    "thumbnail": "https://BitPixelBlast.github.io/images/999.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "2248-blast",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1000.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "vehicle-fun-race",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1001.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "king-of-crabs",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1002.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "wood-color-block",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1003.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "stickman-team-detroit",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1004.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "party-animals-cats-evolution",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1005.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "safe-merge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1006.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "poppy-player-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1007.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-home-mania",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1008.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "fury-of-the-steampunk-princess",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1009.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "kaboom-miner",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1010.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "offroad-island",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1011.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "checkers",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1012.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-shooter",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1013.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "tung-sahur-coloring",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1014.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "stickman-vs-zombies-worldcraft",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1015.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "run-friends",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1016.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-blasty-saga",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1017.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "baby-penguin-fishing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1018.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "stellar-style-spectacle-fashion",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1019.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dream-mania-happy-match",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1020.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "sprunky-incredibox-mods",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1021.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "dynamons-8",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1022.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "idle-zombie-wave",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1023.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-flowers-merge-and-sell-bouquets",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1024.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mow-it",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1025.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "paint-pop-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1026.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "pirates-mahjong",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1027.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "2048-blocks-destruction",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1028.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "slicer-duo",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1029.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "obby-prison-craft-escape",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1030.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "truck-stack-colors",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1031.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "witch-fairy-bff",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1032.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "daily-horoscope-hd",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1033.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rocket-sky",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1034.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "circuit-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1035.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "flight-sim-air-traffic-control",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1036.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "ellies-recipe-dubai-chocolate-bar",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1037.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "penguin-adventure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1038.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "unicorn-find-the-differences",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1039.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "family-tree-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1040.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "kiss-o-neck",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1041.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tales-of-lagoona",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1042.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tile-fruits",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1043.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hydro-racing-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1044.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "geometry-open-world",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1045.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "shoot-the-bottle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1046.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "summer-connect",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1047.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "fruit-jam-merge-puzzle-game",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1048.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "tricky-life",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1049.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hexa-puzzle-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1050.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "blue-girls-makeup",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1051.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "city-bike-racing-champion",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1052.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "dragon-escape",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1053.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zombie-road",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1054.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "sprunki-coloring-book",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1055.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "whats-in-my-bag",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1056.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "egg-hunt-mania",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1057.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ellie-chinese-new-year-celebration",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1058.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "incredible-kids-dentist",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1059.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "black-pink-christmas-concert",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1060.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "color-nuts-bolts-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1061.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crazy-traffic-control",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1062.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "pinball-basketball",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1063.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "landmine-cube",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1064.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "match-3d-puzzle-saga",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1065.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "skyscraper-to-the-sky",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1066.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "end-of-world",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1067.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "mind-games-math-crosswords",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1068.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "hexa-stack",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1069.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sprunki-popit",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1070.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "europe-at-war",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1071.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "fishing-bear",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1072.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "labubu-merge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1073.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "royal-rebellion-punk-magic",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1074.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "math-block",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1075.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "squid-game-original",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1076.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "uno-online",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1077.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "war-of-gun",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1078.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "tb-avataria-life-girl",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1079.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "lost-adventure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1080.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "paint-rush",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1081.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "block-puzzle-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1082.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "power-light",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1083.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dear-island",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1084.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hyper-cars-ramp-crash",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1085.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "block-blast-jewel-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1086.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-pop-legend",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1087.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "pin-master-screw-puzzle-quest-brain-games",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1088.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "moto-cabbie-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1089.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "mahjong-connect-spooky",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1090.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "bublix-bubble-hit",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1091.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "cat-match-3",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1092.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "turbo-trucks-race",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1093.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ninja-time",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1094.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "2-player-mini-challenge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1095.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tung-tung-sagur-clicker",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1096.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sort-works-nuts-order",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1097.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "plant-merge-zombie-war",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1098.webp",
+    "genre": "Adventure, Merge"
+  },
+  {
+    "id": "slinky-color-sort",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1099.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cryptogram-word-brain-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1100.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "three-chickens",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1101.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "shoot-n-crush",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1102.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "girly-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1103.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "word-voyager",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1104.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "screw-nuts-bolts-wood-solve",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1105.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kingdom-cats",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1106.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "magic-tri-peaks-solitaire",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1107.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crush-the-eggs",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1108.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "path-ice",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1109.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "nuwpys-adventure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1110.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fruit-catcher",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1111.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fighter-stick-hero",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1112.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "tank-stars",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1113.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "lemonade-tycoon-idle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1114.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-objects-crime-scene",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1115.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "color-sort-mania",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1116.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "delivery-now",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1117.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "shanghai-town",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1118.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "float-for-brainrots",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1119.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "colorwarsio",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1120.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "easter-style-junction-egg-hunt-extravaganza",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1121.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "car-racing-3d-drive-mad",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1122.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "bank-boom-tung-tung-sahur",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1123.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "labubu-merge-clicker",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1124.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hide-ball",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1125.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "paint-race",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1126.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "idle-landmark-builder",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1127.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "fnf-2-player",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1128.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "bloxdhop-io",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1129.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "beauty-world-and-fashion-stylist",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1130.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "merge-tiktok-gravity-knife",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1131.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sprunki-match",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1132.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "spooky-chains",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1133.webp",
+    "genre": "Agility, Match-3"
+  },
+  {
+    "id": "cryptogram",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1134.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zombie-rush",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1135.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "shape-transform-blob-racing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1136.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "labubu-jetpack-rush",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1137.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "mega-ramps-ultimate-car-races",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1138.webp",
+    "genre": "Racing & Driving, .IO"
+  },
+  {
+    "id": "battle-of-pirate-caribbean-battle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1139.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "21-cards",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1140.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "foxy-eco-sort",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1141.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-farm-life",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1142.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "doge-bubble",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1143.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "merry-christmas-stickman",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1144.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cs-upgrade-gun",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1145.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "snake-2048",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1146.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "ultra-realistic-blockcraft",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1147.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "blankets",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1148.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "click-kitty-idle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1149.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "infantry-attack-battle-3d-fps",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1150.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "evony-the-kings-return",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1151.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ufo-attack",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1152.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "farm-blast",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1153.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "panda-dash-auto-shooting",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1154.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "cat-snack-bar",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1155.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dunk-challenge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1156.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "doggi",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1157.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "festival-vibes-makeup",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1158.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "car-factory-for-kids",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1159.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "car-out-jam",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1160.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "arrow-exit-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1161.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometry-rush-4d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1162.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "quest-by-country",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1163.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "bus-driver",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1164.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "matchventures",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1165.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ninja-survivor",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1166.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pixel-flow",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1167.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "traffic-tap-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1168.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "kick-loser",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1169.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "destination-brain-test",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1170.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "extreme-car-driving-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1171.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "farm-merge-valley",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1172.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "countryside-truck-drive",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1173.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "classic-mahjong",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1174.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "halloween-challenge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1175.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "roblox-craft-run",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1176.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fortzone-battle-royale-xkd",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1177.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farm-block-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1178.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "supermarket-cashier-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1179.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "royal-jigsaw",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1180.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "save-stranding-fish",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1181.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "woop-crawl-up",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1182.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "your-dream-room",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1183.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "battle-zone-2d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1184.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "card-quest-10-minute-adventure",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1185.webp",
+    "genre": "Boardgames, Cards"
+  },
+  {
+    "id": "boom-stick-bazooka",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1186.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "maze-hide-or-seek",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1187.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "water-shooter",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1188.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "butterfly-match-mastery",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1189.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "brick-game-classic",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1190.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fire-and-water-birds",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1191.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "giant-sushi-merge-master-game",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1192.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "sisyphus-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1193.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mahjong-zen-garden",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1194.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "agent-squad",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1195.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "gladiators-merge-and-fight",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1196.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "asmr-tattoo-treatment",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1197.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "v-and-n-pizza-cooking-game",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1198.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "basketball-fever",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1199.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "spa-empire",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1200.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "jewel-garden-story",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1201.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "slope-spooky",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1202.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "hazel-tangle-rope-3d-sorting-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1203.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "lulus-fashion-world",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1204.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "the-wall",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1205.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "cyber-arrow",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1206.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "monster-dash",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1207.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "the-stone-miner",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1208.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "dynamons-connect",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1209.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "stick-vs-monster-school-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1210.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "jetstream-escape",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1211.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "solitaire-emperor-secrets-of-fate",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1212.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "going-balls-adventure-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1213.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "online-cats-multiplayer-park",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1214.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "elementz",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1215.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "floof-my-pet-house",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1216.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "geometry-dash-maze-maps",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1217.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rainbow-friends-survival",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1218.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "downhill-car-ride-crash-test",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1219.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "donnes-spinning-world",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1220.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "agent-zero-infiltration",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1221.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "plants-warfare",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1222.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "cupid-unchained",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1223.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "angry-chibi-run",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1224.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "screw-puzzle-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1225.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "crystal-connect",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1226.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "count-master-match-color-run",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1227.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mineblock-obby",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1228.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "cube-in-cube",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1229.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "battle-simulator-sandbox",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1230.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "love-in-style",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1231.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "avatar-world-secrets",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1232.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "idle-town-billionaire",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1233.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sniper-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1234.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "survive-the-night",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1235.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bitball",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1236.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "demolition-derby-derby",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1237.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "princess-run-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1238.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "robot-runner-fight",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1239.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "choo-choo-spider-monster-train",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1240.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "city-drift-racing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1241.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "obby-yard-sale",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1242.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "get-a-cool-gun",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1243.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wordmeister-hd",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1244.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "k-wedding-dream",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1245.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "8-ball-pool-wyr",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1246.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-in-space",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1247.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "cute-kitty-merge",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1248.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mega-jump",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1249.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "pushover-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1250.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "battle-brigade",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1251.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "combine-pickaxes",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1252.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "black-hole-beauty-makeup",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1253.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "lol-surprise-omg-bb-driver",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1254.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "hopnova",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1255.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fidget-toys-pop-it",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1256.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stick-archer-online",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1257.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hole-and-fill-collect-master",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1258.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "black-pink-halloween-concert",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1259.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "pin-detective",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1260.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "minetap-merge-clicker",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1261.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brawl-stars",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1262.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "hole-battleio",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1263.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "car-stunt-racing-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1264.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "solitaire-mahjong-farm-2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1265.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "my-perfect-organization",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1266.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hunting-underwater-spearfishing",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1267.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "popping-pets",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1268.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "little-candy-bakery",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1269.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "toilet-rush",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1270.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hotgear",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1271.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "word-hunt",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1272.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "delivery-chaos",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1273.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "strawberry-hero",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1274.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "hero-wizard-save-your-girlfriend",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1275.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "geometry-dash-maze-maps-v2",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1276.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "pickle-ball-clash",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1277.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "the-last-tiger-tank-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1278.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "iron-legion",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1279.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "live-or-die",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1280.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "two-stunt-supercars",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1281.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "candy-doll-dress-up",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1282.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "merge-archer-defense",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1283.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "mystical-blade-3d",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1284.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "college-girl-coloring-dress-up",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1285.webp",
+    "genre": "Art, Casual, Dress-up"
+  },
+  {
+    "id": "hit-ball",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1286.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fireside-solitaire",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1287.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "colors-pins",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1288.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "roblo-x-zombie",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1289.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "block-puzzle-tropical-story",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1290.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cubes-2048-io",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1291.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "valentines-day-couple-date",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1292.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "merge-flow",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1293.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "collect-em-all",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1294.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "match-tile-royal-family",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1295.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "thread-sort",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1296.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tangram-puzzle",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1297.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "real-parkour-simulator",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1298.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "savage-defenders",
+    "thumbnail": "https://BitPixelBlast.github.io/images/1299.webp",
+    "genre": "Strategy"
+  }
+]
